@@ -4,6 +4,5 @@ class Question():
         self.text = q_text
         self.answer = q_answer
 
-new_q = Question("Text", "answer")
+#new_q = Question("Text", "answer")
 
-#print(new_q.text)
